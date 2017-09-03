@@ -1,0 +1,4 @@
+
+prerequisites:
+	libevent 2x
+	libmemcached 
